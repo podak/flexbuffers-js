@@ -1,11 +1,11 @@
 {
-  "name": "@cor3ntin/flexbuffers-wasm",
-  "author": "cor3ntin",
+  "name": "@podak/flexbuffers-asm",
+  "author": "podak",
   "version": "0.0.18",
-  "description": "Flexbuffers for JS and typescript on browsers and node using webassembly",
+  "description": "Flexbuffers for JS and typescript on browsers and node using asm. This is a rebuild of the @cor3ntin/flexbuffers-wasm original library",
   "main": "./flexbuffers.js",
   "types": "./flexbuffers.d.ts",
-  "homepage": "https://github.com/cor3ntin/flexbuffers-js",
-  "repository": "https://github.com/cor3ntin/flexbuffers-js",
+  "homepage": "https://github.com/podak/flexbuffers-js",
+  "repository": "https://github.com/podak/flexbuffers-js",
   "license": "MIT"
 }
